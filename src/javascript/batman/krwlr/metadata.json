@@ -1,0 +1,6 @@
+{
+  "name": "Krwlr",
+  "description": "Krwlr: An application to upload .txt files or crawl webpage text content (via Tavily API), select desired content, and convert them into downloadable PDF documents (individually or as a ZIP).",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
